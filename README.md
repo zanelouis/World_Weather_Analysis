@@ -14,4 +14,7 @@ We used the data from PlanMyTrip and weather patterns to predict and analyze tre
   -Humidity
   -Cloudiness
   -Wind speed
+  
+## Resources
+
 
